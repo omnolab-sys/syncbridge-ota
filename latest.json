@@ -1,0 +1,6 @@
+{
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.4.apk",
+  "notes": "Home screen polish: larger upload tiles, taller synced-storage rows, content fills the screen."
+}
