@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.4.apk",
-  "notes": "Home screen polish: larger upload tiles, taller synced-storage rows, content fills the screen."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.5.apk",
+  "notes": "Real \"Choose a folder\" (SAF). Feedback saves to Supabase + emails you (key is server-side now, not in the app). New: Keep screen on during transfers, bulk Download, long-text wrap/fold, drag-and-drop + paste-to-upload on the web page, real upload progress bars, and a fix for the Add/Edit Text screen layout bug."
 }
