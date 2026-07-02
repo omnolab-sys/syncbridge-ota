@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.7.apk",
-  "notes": "New app logo — now on your home screen, in the app header, and on the web page sidebar. Plus a small polish pass: all outlined buttons share one clean border (delete/clear stay red by their text, not a red outline)."
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.8.apk",
+  "notes": "New app icon — the soft-lavender \"sync bridge\" cards mark is now your home-screen icon. The web page sidebar uses the matching cards mark, and the phone header is back to a clean wordmark."
 }
