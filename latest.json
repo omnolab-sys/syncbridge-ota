@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.8.apk",
-  "notes": "New app icon — the soft-lavender \"sync bridge\" cards mark is now your home-screen icon. The web page sidebar uses the matching cards mark, and the phone header is back to a clean wordmark."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.9.apk",
+  "notes": "Fixes: the app icon no longer overflows its rounded square (now sized to sit cleanly inside), and Dark mode's Auto setting correctly follows your phone's system light/dark setting."
 }
