@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.6.apk",
-  "notes": "Dark mode! Settings → Appearance lets you pick Light, Dark, or Auto (follows your phone). The whole app and the browser page both theme to match. Also: hidden scrollbars for cleaner screens, and the feedback email is now sent from the server so no secret ships in the app."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.7.apk",
+  "notes": "New app logo — now on your home screen, in the app header, and on the web page sidebar. Plus a small polish pass: all outlined buttons share one clean border (delete/clear stay red by their text, not a red outline)."
 }
