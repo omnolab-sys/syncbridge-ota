@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
+  "versionCode": 21,
+  "versionName": "3.0",
   "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-latest.apk",
-  "notes": "Fixed the PIN pad flashing on every keypress (Storage Access setup, both phone and web). New: editable server address & port in Settings, with a one-tap Auto reset."
+  "notes": "Renamed \"Storage Access\" to \"Root Access\" throughout. Settings → Server: the IP/Port fields now validate what you type — an invalid address falls back to auto and shows a clear note. Also fixed the Server card shrinking when the keyboard was up, and tapping a theme no longer bounces you to Home."
 }
