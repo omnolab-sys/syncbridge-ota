@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-1.9.apk",
-  "notes": "Fixes: the app icon no longer overflows its rounded square (now sized to sit cleanly inside), and Dark mode's Auto setting correctly follows your phone's system light/dark setting."
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-2.0.apk",
+  "notes": "Share to SyncBridge! Tap Share in any app (Photos, Files, a browser) and pick SyncBridge — your photos, videos, files or text drop straight into the synced folder. Also: the Home screen no longer stretches with big gaps, and every screen's title now sits in the exact same spot."
 }
