@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-2.0.apk",
-  "notes": "Share to SyncBridge! Tap Share in any app (Photos, Files, a browser) and pick SyncBridge — your photos, videos, files or text drop straight into the synced folder. Also: the Home screen no longer stretches with big gaps, and every screen's title now sits in the exact same spot."
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-latest.apk",
+  "notes": "Fixed the PIN pad flashing on every keypress (Storage Access setup, both phone and web). New: editable server address & port in Settings, with a one-tap Auto reset."
 }
