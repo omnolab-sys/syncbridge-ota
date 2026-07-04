@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0",
+  "versionCode": 22,
+  "versionName": "3.1",
   "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-latest.apk",
-  "notes": "Renamed \"Storage Access\" to \"Root Access\" throughout. Settings → Server: the IP/Port fields now validate what you type — an invalid address falls back to auto and shows a clear note. Also fixed the Server card shrinking when the keyboard was up, and tapping a theme no longer bounces you to Home."
+  "notes": "Small polish: tapping the Server card's Auto button when you're already on auto now gives a quick \"Already running on auto\" confirmation instead of doing nothing."
 }
