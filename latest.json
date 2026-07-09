@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.1",
+  "versionCode": 23,
+  "versionName": "3.2",
   "apkUrl": "https://raw.githubusercontent.com/omnolab-sys/syncbridge-ota/main/SyncBridge-latest.apk",
-  "notes": "Small polish: tapping the Server card's Auto button when you're already on auto now gives a quick \"Already running on auto\" confirmation instead of doing nothing."
+  "notes": "Server start fix: starting the server is now bulletproof — if the usual port is busy it picks another automatically, a saved custom address can never block startup, and if anything still fails you get a clear message instead of silence. Also fixed a restart race after editing the IP/port."
 }
